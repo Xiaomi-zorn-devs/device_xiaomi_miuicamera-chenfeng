@@ -1,12 +1,12 @@
-# All unpinned blobs below are extracted from ruby V2.0.8.0.UMOCNXM
+# All unpinned blobs below are extracted from ruby V2.0.9.0.UMOCNXM
 
 product/priv-app/MiuiCamera/MiuiCamera.apk:system_ext/priv-app/MiuiCamera/MiuiCamera.apk
 
 # Camera (Libraries) - from ruby 14 OS2.0.9.0.UMOMIXM
-system/etc/public.libraries-xiaomi.txt|b6855bdbb7e37f0bc866d71c9e0ede4243febbe2
-system_ext/lib64/libcamera_algoup_jni.xiaomi.so|d3525ac4bdfe5e064486f9e45e354c65630f16d2
-system_ext/lib64/libcamera_ispinterface_jni.xiaomi.so|447831af7ed3ac394f9cee67508ca8fb1c0d6eec
-system_ext/lib64/libcamera_mianode_jni.xiaomi.so|ed25b24cfc071d934d70e316865b7665a4a720e3
-system_ext/lib64/libmtkisp_metadata_sys.so|c9df650e499f20ade0f104355e3851fbdc9f10b3
-system_ext/lib64/vendor.mediatek.hardware.camera.isphal-V1-ndk.so|6bf0411d9f98caa18a3b4771e9dd80e740c8cc0b
-system_ext/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so|da803b52f35b309d690eaa0d687b067d59ec9a47
+system/etc/public.libraries-xiaomi.txt
+system_ext/lib64/libcamera_algoup_jni.xiaomi.so
+system_ext/lib64/libcamera_ispinterface_jni.xiaomi.so
+system_ext/lib64/libcamera_mianode_jni.xiaomi.so
+system_ext/lib64/libmtkisp_metadata_sys.so
+system_ext/lib64/vendor.mediatek.hardware.camera.isphal-V1-ndk.so
+system_ext/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so

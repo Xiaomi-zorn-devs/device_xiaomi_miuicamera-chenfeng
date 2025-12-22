@@ -43,7 +43,7 @@ blob_fixups: blob_fixups_user_type = {
         .replace_needed('android.hardware.graphics.common-V4-ndk.so','android.hardware.graphics.common-V7-ndk.so'),
 
     'system/priv-app/MiuiCamera/MiuiCamera.apk': blob_fixup()
-        .apktool_patch('patches/MIUICamera.patch'),
+      #  .apktool_patch('patches/MIUICamera.patch'),
 }
 
 module = ExtractUtilsModule(
