@@ -5,11 +5,11 @@
 #
 
 # Inherit from the proprietary version
-$(call inherit-product, vendor/xiaomi/miuicamera-rubyx/miuicamera-rubyx-vendor.mk)
+$(call inherit-product, vendor/xiaomi/miuicamera-chenfeng/miuicamera-chenfeng-vendor.mk)
 
 # Overlays
 PRODUCT_PACKAGES += \
-    MiuiCameraOverlay
+    ChenfengCameraOverlay
 
 # Priv-app permission
 PRODUCT_COPY_FILES += \
